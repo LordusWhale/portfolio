@@ -214,7 +214,7 @@ footer > ul {
     .content {
         padding: 0 1.5em;
     }
-    .work-container {
+    .project-container {
         grid-template-columns: 100%;
     }
     .first-item {
